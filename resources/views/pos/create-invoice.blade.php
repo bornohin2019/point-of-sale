@@ -142,10 +142,7 @@
                     <div class="row">
                         <div class="col-sm-12">
                             <b class="text-danger">Notes:</b>
-                            <p class="mb-0">It is a long established fact that a reader will be distracted by the readable content of a page
-                                when looking
-                                at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,
-                                as opposed to using 'Content here, content here', making it look like readable English.</p>
+                            <p class="mb-0">Check the information carefully before create Invoice.</p>
                         </div>
                     </div>
 
