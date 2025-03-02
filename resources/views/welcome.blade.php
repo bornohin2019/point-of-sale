@@ -50,13 +50,13 @@
             </div>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="assets/images/profile/service/pos3.jpeg" class="d-block w-100" alt="Image 1">
+                    <img src="assets/images/profile/service/pos2.jpg" class="d-block w-100" alt="Image 1">
                 </div>
                 <div class="carousel-item">
-                    <img src="assets/images/profile/service/pos1.jpeg" class="d-block w-100" alt="Image 2">
+                    <img src="assets/images/profile/service/pos3.jpeg" class="d-block w-100" alt="Image 2">
                 </div>
                 <div class="carousel-item">
-                    <img src="assets/images/profile/service/gajet.jpeg" class="d-block w-100" alt="Image 3">
+                    <img src="assets/images/profile/service/pos1.jpeg" class="d-block w-100" alt="Image 3">
                 </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
